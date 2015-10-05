@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>891E4811-36B4-4866-861D-224095FD7D89</string>
+	<key>IDESourceControlProjectName</key>
+	<string>VideoEffects</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>2756E37423C6817187C0B3FE84B274D1491ADFD1</key>
+		<string>https://github.com/xujingzhou/VideoEffects.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>VideoEffects.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>2756E37423C6817187C0B3FE84B274D1491ADFD1</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/xujingzhou/VideoEffects.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>2756E37423C6817187C0B3FE84B274D1491ADFD1</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>2756E37423C6817187C0B3FE84B274D1491ADFD1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>VideoEffects(1.1)</string>
+		</dict>
+	</array>
+</dict>
+</plist>
