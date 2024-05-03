@@ -1,7 +1,7 @@
 # VideoEffects
 Generate a spotlight in a video: The funny filter followed spotlight everywhere the spotlight went. Tested on iPhone 4 and iPhone 5S.
 
-  在指定视频中，生成聚光灯特效。 创新之作，版权所有!
+在指定视频中，生成聚光灯特效。
 
 Copyright and all rights therein are retained by authors or by other copyright holders.  
 Johnny Xu (徐景周)  
